@@ -17,5 +17,6 @@
     "webpack-dev-server": "^2.3.0"
   },
   "dependencies": {
+    "preact": "^7.2.0"
   }
 }
